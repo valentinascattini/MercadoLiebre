@@ -1,1 +1,1 @@
-# MercadoLiebre Proyecto Mercado Liebre realizado por Valentina Scattini.
+Proyecto de Mercado Liebre realizado por Valentina Scattini.
